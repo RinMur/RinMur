@@ -3,7 +3,7 @@
 ![Rin jpg](https://github.com/RinMur/RinMur/assets/163027162/94189765-9934-4c75-b366-c27b3f120f0a)
 
 
-                                                              - 🌱 I am currently learning  about Web Development
+                                               - 🌱 I am currently learning  about Web Development
 -  📫 How to reach me:
    -  Faceboook
    -  Instagram
